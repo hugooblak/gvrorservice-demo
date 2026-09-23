@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'G.V Rörservice AB',
+	'bransch'        => 'VVS-montör',
 	'telefon'        => '073-386 06 23',
 	'telefon_tel'    => '+46733860623',
 	'ort'            => 'Rönninge',
